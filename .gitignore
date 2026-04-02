@@ -1,14 +1,17 @@
 # Build output — binaries and release folders
-bin/
-obj/
-Release/
-Debug/
-x64/
+bin\
+obj\
+Release\
+Debug\
+x64\
 *.exe
 *.dll
 *.pdb
+license.txt
 
 # Visual Studio artefacts
 .vs/
 *.user
 *.suo
+/bin
+/obj
