@@ -1,0 +1,14 @@
+# Build output — binaries and release folders
+bin/
+obj/
+Release/
+Debug/
+x64/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio artefacts
+.vs/
+*.user
+*.suo
