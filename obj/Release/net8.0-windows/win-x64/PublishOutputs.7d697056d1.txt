@@ -1,0 +1,9 @@
+C:\Intel\PasswordGenLocal\bin\defaultDescription.ini
+C:\Intel\PasswordGenLocal\bin\defaultSettings.ini
+C:\Intel\PasswordGenLocal\bin\LICENSE.txt
+C:\Intel\PasswordGenLocal\bin\D3DCompiler_47_cor3.dll
+C:\Intel\PasswordGenLocal\bin\PenImc_cor3.dll
+C:\Intel\PasswordGenLocal\bin\PresentationNative_cor3.dll
+C:\Intel\PasswordGenLocal\bin\vcruntime140_cor3.dll
+C:\Intel\PasswordGenLocal\bin\wpfgfx_cor3.dll
+C:\Intel\PasswordGenLocal\bin\PGLv9.exe

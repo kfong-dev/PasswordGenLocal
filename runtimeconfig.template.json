@@ -1,0 +1,9 @@
+{
+  "configProperties": {
+    "System.Runtime.Intrinsics.X86.Avx512F.IsSupported": false,
+    "System.Runtime.Intrinsics.X86.Avx512BW.IsSupported": false,
+    "System.Runtime.Intrinsics.X86.Avx512CD.IsSupported": false,
+    "System.Runtime.Intrinsics.X86.Avx512DQ.IsSupported": false,
+    "System.Runtime.Intrinsics.X86.Avx512Vbmi.IsSupported": false
+  }
+}
